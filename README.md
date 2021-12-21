@@ -1,5 +1,5 @@
 # State
-:warning: Project is in [copyright clearance](http://www.gnu.org/licenses/gpl-howto.en.html) phase.
+> :warning: Project is in [copyright clearance](http://www.gnu.org/licenses/gpl-howto.en.html) phase.
 
 This means to be a modern c++ template-based [Cap'n'proto](https://capnproto.org/)-based [state](https://en.wikipedia.org/wiki/State_(computer_science)) library. 
 
