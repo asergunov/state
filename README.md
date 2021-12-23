@@ -1,7 +1,7 @@
 # State
 > :warning: Project is in [copyright clearance](http://www.gnu.org/licenses/gpl-howto.en.html) phase.
 
-This means to be a modern c++ template-based [state](https://en.wikipedia.org/wiki/State_(computer_science)) library. 
+This means to be a modern c++ template-based [state](https://en.wikipedia.org/wiki/State_(computer_science)) implementation. 
 
 # Copyright notice
 Author are not using and not going to use any intellectual property of any company author is working or was working for by any kind of contracts.
